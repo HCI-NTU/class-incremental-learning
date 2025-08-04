@@ -1,1 +1,1 @@
-This repository provides the list of image files along with the trained models used in the following paper: Kim, J. and Kim S.-Y. "Class-incremental visual scene understanding in multi-stage construction scenarios via sequential knowledge distillation and exemplar replay."
+This repository provides the list of image files along with the trained models used in the following paper: Kim, J. and Kim S.-Y. "Class-incremental visual scene understanding in multi-stage construction scenarios via sequential knowledge distillation and exemplar replay."	
